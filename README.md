@@ -72,6 +72,9 @@ Fraud probability analysis
 Deepak GM
 Tharun Kumar SV
 
+## Youtube Video Link
+https://www.youtube.com/watch?v=QfqTd1fola4
+
 
 
 
