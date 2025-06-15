@@ -2,28 +2,47 @@
 
 ## 🚨 Why This Matters
 
-Online job platforms are being targeted by scammers. These fake job listings waste time and risk exposing personal info. Our ML-based fraud detector helps job-seekers stay safe — **before they apply**.
+Online job platforms are increasingly targeted by scammers. Fake job listings not only waste applicants’ time but also put their **personal data and money at risk**.
+
+This project leverages machine learning to help job-seekers stay safe — **before they click "Apply"**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Python
-- Scikit-learn
-- Streamlit
-- Pandas, NumPy, Seaborn, Matplotlib
+- **Python 3**
+- **Scikit-learn**
+- **Pandas**, **NumPy**
+- **Seaborn**, **Matplotlib**
+- **Streamlit**
 
 ---
 
 ## ⚙️ Features
 
-| Feature                       | Status |
-|------------------------------|--------|
+| Feature                       | Status  |
+|------------------------------|---------|
 | Upload job posting CSV       | ✅ Done |
 | Predict “Fraud” vs “Genuine” | ✅ Done |
 | Show fraud probability       | ✅ Done |
 | Interactive visualizations   | ✅ Done |
 | Top-10 suspicious jobs       | ✅ Done |
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Create & Activate a Virtual Environment (Recommended)
+
+
+# Create environment
+python -m venv venv
+
+# Activate on Windows
+venv\Scripts\activate
+
+# Activate on Mac/Linux
+source venv/bin/activate
 
 ---
 
