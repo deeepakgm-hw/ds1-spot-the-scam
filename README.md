@@ -27,5 +27,5 @@ Online job platforms are being targeted by scammers. These fake job listings was
 
 ---
 
-## 📁 Folder Structure
+
 
