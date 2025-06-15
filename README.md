@@ -27,5 +27,32 @@ Online job platforms are being targeted by scammers. These fake job listings was
 
 ---
 
+## Create and activate a virtual environment (optional but recommended):
+python -m venv venv
+venv\Scripts\activate      # On Windows
+source venv/bin/activate   # On Mac/Linux
+
+## Install dependencies
+pip install -r requirements.txt
+
+## Run the Streamlit dashboard:
+streamlit run src/dashboard.py
+
+## 📊 Sample Dashboard
+![image](https://github.com/user-attachments/assets/21da130d-9a8e-49ae-bde1-bc3402211b30)
+
+The dashboard allows you to upload a CSV file of job postings and displays:
+
+Predictions (Real/Fake)
+
+Visualizations of fraud patterns
+
+Fraud probability analysis
+
+## 👨‍💻 Author
+Deepak GM
+Tharun Kumar SV
+
+
 
 
